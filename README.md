@@ -1,2 +1,1 @@
-# Tarea-
-prueba modulo dos
+Tarea del prpcourse modulo 2
